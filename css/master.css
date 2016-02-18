@@ -10,6 +10,14 @@ body {
   width: 100%;
 }
 
+.head {
+  margin-top: 20px;
+}
+
+.row h4 {
+  margin-bottom: 0px;
+}
+
 ul {
   text-decoration: none;
   list-style: none;
@@ -23,10 +31,6 @@ img {
 
 h1 {
   margin: 40px auto 0 auto;
-}
-
-.headerImg img {
-  height: 50%;
 }
 
 .one-third a {
@@ -49,4 +53,15 @@ li {
   float: left;
   display: block;
   margin: 5px;
+}
+
+footer {
+  display: block;
+  margin: auto;
+}
+
+button {
+  padding: 0 2px;
+  width: 15.5%;
+  font-size: .5rem;
 }
