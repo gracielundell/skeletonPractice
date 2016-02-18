@@ -1,0 +1,44 @@
+@media (min-width: 400px) {
+  /* nexus 6 */
+  .container {
+    padding: 0 10%;
+  }
+}
+
+@media (min-width: 550px) {
+  /* blackberry playbook */
+  .container {
+    padding: 5%;
+  }
+  .one-third {
+    width: 100%;
+  }
+  button {
+    padding: 0 10px;
+  }
+}
+@media (min-width: 750px) {
+  /* ipad */
+  .container {
+    padding: 10px;
+    width: 100%
+  }
+  .navbar h1 {
+    float: left;
+  }
+  .navbar ul {
+    float: left;
+    margin-top: 55px;
+  }
+  .navbar li {
+    padding: 0 28px;
+  }
+  .one-third {
+    width: 30%;
+  }
+  .twelve {
+    display: block;
+    margin: auto;
+    padding: 0 160px;
+  }
+}
