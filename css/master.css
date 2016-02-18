@@ -1,0 +1,38 @@
+.container {
+  max-width: 960px;
+}
+
+.column, .columns {
+  width: 100%;
+}
+
+ul {
+  text-decoration: none;
+  list-style: none;
+
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.headerImg img {
+  width: 500px;
+}
+
+.one-third a {
+  text-align: center;
+  font-size: 3rem;
+  color: tomato;
+}
+
+.navbar {
+  width: 100%;
+}
+
+li {
+  float: left;
+  display: block;
+  margin: 5px;
+}
