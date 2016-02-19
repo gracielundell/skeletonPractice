@@ -58,10 +58,14 @@ footer {
 .twelve {
   justify-content: space-between;
   display: flex;
-
+  display: block;
+  margin: auto;
 }
 button {
   display: inline;
   padding: 0 1px;
   font-size: .5rem;
+}
+.twelve li {
+  margin: 0 2px;
 }
